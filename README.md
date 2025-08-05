@@ -17,8 +17,6 @@
       <li>🌍 I'm from Brazil.</li>
     </ul>
 
-    <!-- Habilidades estilo dashboard -->
-
 ## 💻 Technologies & Tools
 
 <p align="center">
