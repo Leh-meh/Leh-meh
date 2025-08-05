@@ -16,19 +16,8 @@
       <li>✨ My goal is to become a <strong>Fullstack Developer</strong>.</li>
       <li>🌍 I'm from Brazil.</li>
     </ul>
-  </details>
-</div>
 
----
-
-<!-- Animação de ondas -->
-<div style="position:relative;height:150px;overflow:hidden;background:#0f2027">
-  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="position:absolute;bottom:0;width:100%;height:100px;">
-    <path d="M0.00,49.98 C150.00,150.00 349.76,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #1a1a2e;"></path>
-  </svg>
-</div>
-
-<!-- Habilidades estilo dashboard -->
+    <!-- Habilidades estilo dashboard -->
 
 ## 💻 Technologies & Tools
 
@@ -59,6 +48,20 @@
 </p>
 
 ---
+    
+  </details>
+</div>
+
+---
+
+<!-- Animação de ondas -->
+<div style="position:relative;height:150px;overflow:hidden;background:#0f2027">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="position:absolute;bottom:0;width:100%;height:100px;">
+    <path d="M0.00,49.98 C150.00,150.00 349.76,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #1a1a2e;"></path>
+  </svg>
+</div>
+
+
 
 <div align="center">
   🙏 Thank you for visiting my profile!
