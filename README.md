@@ -62,38 +62,15 @@
   ##
   <br>
 
-  <div align="center">
+<div align="center">
 
-  <a href="mailto:leticiamedeiros@example.com">
-    <img alt="Gmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
-  </a>
-  <a href="https://www.instagram.com/medeiross.dev/">
-    <img alt="Instagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-  </a>
-  <a href="https://discord.gg/WgJ7p7kJ">
-    <img alt="Discord" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />
-  </a>
-  <a href="https://whatsapp.com/dl/">
-    <img alt="WhatsApp" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/leticia-medeiros-204809309/">
-    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-  </a>
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiamedeiros@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/medeiross.dev/)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/WgJ7p7kJ)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://whatsapp.com/dl/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticia-medeiros-204809309/)
 
-  </div>
-
-  <div align="center">
-
-  <p align="center">
-        <samp>
-          ♡ <a href="[your-rentry-link]">rentry</a> ⊹
-          <a href="[your-linktree-link]">linktr.ee</a> ⊹
-          <a href="[your-carrd-link]">carrd.co</a> ⊹
-          <a href="[your-notion-link]">notion</a> ♡
-        </samp>
-    </p>
-
-  </div>
+</div>
 
 </details>
 
