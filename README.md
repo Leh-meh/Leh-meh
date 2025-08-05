@@ -7,6 +7,7 @@
       <br>
       Olá, meu nome é Letícia Medeiros!
       <br>
+    </b>
   </samp>
 </div>
 
@@ -32,44 +33,43 @@
 
 <br>
 
-<details align="center">
-  <summary>
-    <samp><b>More Info</b></samp>
-  </summary>
-  <br>
-  <div align="center">
+<details>
+  <summary><b>More Info</b></summary>
 
-    | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leh-meh&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leh-meh&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leh-meh&theme=nord_dark&utcOffset=-3) |
-    | :-: | :-: | :-: |
+  ### Estatísticas
 
-    | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leh-meh&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leh-meh&theme=nord)](https://git.io/streak-stats) |
-    | :-: | :-: |
+  | Stats | Languages | Productive Time |
+  |-------|-----------|-----------------|
+  | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leh-meh&theme=nord_dark) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leh-meh&theme=nord_dark) | ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leh-meh&theme=nord_dark&utcOffset=-3) |
 
-  </div>
+  ### Perfil e Streak
 
-  <div align="center" style="display: inline_block"><br>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
-  </div>
+  | Profile Details | Streak |
+  |-----------------|--------|
+  | ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leh-meh&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leh-meh&theme=nord)](https://git.io/streak-stats) |
 
-  <br>
+  ### Tecnologias
 
-  <div align="center">
+  ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React.svg)  
+  ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg)  
+  ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg)  
+  ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg)  
+  ![TailwindCSS](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS.svg)  
+  ![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg)  
+  ![VSCode](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode.svg)  
+  ![NodeJS](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg)  
 
-    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiamedeiros@example.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leh_meh)
-    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/yourdiscordlink)
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516999999999)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiamedeiros/)
-  </div>
+  ### Contatos
+
+  - [Gmail](mailto:leticiamedeiros@example.com)
+  - [Instagram](https://www.instagram.com/leh_meh)
+  - [Discord](https://discord.gg/yourdiscordlink)
+  - [WhatsApp](https://wa.me/5516999999999)
+  - [LinkedIn](https://www.linkedin.com/in/leticiamedeiros/)
 
 </details>
 
 <br>
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
