@@ -1,63 +1,101 @@
-<details>
-  <summary><b>More Info</b></summary>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-  # Stats
+<div align="center">
+  <samp>
+    <b>
+      Front-End Developer  
+      <br>
+      Olá, meu nome é Letícia Medeiros!
+      <br>
+    </b>
+  </samp>
+</div>
 
-  - **Total Share**  
-    - Social Committee: [seu dado aqui]
-    - Total Time: [seu tempo de codificação]
-    - Total Issuance: [seus dados]
-    - Contributions: [número de contribuições]
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fleh-meh&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://i.gifer.com/nRq.gif" width="200">
+</div>
 
-  ---
+<div align="center">
+  <img src="https://img.shields.io/badge/keep_coding-2a9d8f?style=flat&logo=visual-studio-code&logoColor=white" />
+</div>
 
-  ## Top Languages by Repo
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+Front-End+Developer;Currently+studying+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-  - JavaScript
-  - CSS
-  - HTML
-  - [Outras linguagens que você usa]
+<br>
 
-  ---
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
 
-  ## Commits (UTC -3:00) [ajustado para o horário do Brasil]
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leh-meh&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leh-meh&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leh-meh&theme=nord_dark&utcOffset=-3) |
+| :-: | :-: | :-: |
 
-  - **Commits Shared**  
-    - [Seu dado de média 1]
-    - [Seu dado de média 2]
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leh-meh&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leh-meh&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
 
-  ---
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
 
-  ### Refractors
+<br>
 
-  - [ ] [Seu projeto 1]
-  - [ ] [Seu projeto 2]
-  - [ ] [Seu projeto 3]
+##
 
-  ---
+<br>
 
-  ### Database of Features
+<div align="center">
 
-  - **Total Contributions**  
-    - [Data de início] - Present
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiamedeiros@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leh_meh)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/yourdiscordlink)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516999999999)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiamedeiros/)
+  
+</div>
 
-  ---
+<div align="center">
 
-  ### Compact Trends
+<p align="center">
+      <samp>
+        ♡ <a href="[seu link rentry]">rentry</a> ⊹
+        <a href="[seu link linktree]">linktr.ee</a> ⊹
+        <a href="[seu link carrd]">carrd.co</a> ⊹
+        <a href="[seu link notion]">notion</a> ♡
+      </samp>
+  </p>
 
-  - **Legend**: [Seu tópico de interesse]
-    - [Sua métrica 1] - [Sua métrica 2]
+</div>
 
-  ---
-
-  [![Instagram](https://img.shields.io/badge/Instagram-leh__meh-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/leh_meh)  
-  [![Discord](https://img.shields.io/badge/Discord-username-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourdiscordlink)  
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5516999999999)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Letícia_Medeiros-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiamedeiros/)  
-  [![Report](https://img.shields.io/badge/Report-Issue-FF0000?style=flat&logo=github&logoColor=white)](https://github.com/leh-meh/leh-meh/issues)
-
-  ---
-
-  [reality + linktrace + carrol.co + node]
+##
 
 </details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
