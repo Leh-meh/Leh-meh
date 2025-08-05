@@ -48,6 +48,10 @@
 </p>
 
 ---
+
+<div align="center">
+  😽 Thank you for visiting my profile!
+</div>
     
   </details>
 </div>
@@ -61,8 +65,3 @@
   </svg>
 </div>
 
-
-
-<div align="center">
-  🙏 Thank you for visiting my profile!
-</div>
