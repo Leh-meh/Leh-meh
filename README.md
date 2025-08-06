@@ -67,7 +67,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiamedeiros@example.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/medeiross.dev/)
   [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/WgJ7p7kJ)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://whatsapp.com/dl/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/qr/F3X7CVTAU6GRK1)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticia-medeiros-204809309/)
 
 </div>
